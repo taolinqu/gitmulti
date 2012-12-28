@@ -12,6 +12,7 @@ public class Hello {
 		// 5th line is added
 		// 6th line added in gitmulti-two
 		// 6th line added in gitmulti-one
+		// 7th line by two
 		System.out.println("Hello World");
 	}
 
