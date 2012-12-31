@@ -11,8 +11,7 @@ public class Hello {
 		// The fourth line
 		// 5th line is added
 		// 6th line added by One
-		// 7ht line for patch
+		// 7th line for patch
 		System.out.println("Hello World");
 	}
-
 }
