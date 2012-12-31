@@ -9,7 +9,6 @@ public class Hello {
 		// The 2nd line
 		// The 3rd line
 		// The fourth line
-		// 5th line added by one
 		System.out.println("Hello World");
 	}
 
