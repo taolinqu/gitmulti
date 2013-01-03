@@ -7,7 +7,6 @@ public class Hello {
 		// TODO Auto-generated method stub
 		// Added 2nd line comment
 		// The 2nd line
-		// The 3rd line
 		System.out.println("Hello World");
 	}
 
