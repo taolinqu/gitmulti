@@ -9,7 +9,7 @@ public class Hello {
 		// After the first line
 		// The 2nd line
 		// Add after 2nd line
-		// Add the 3rd line by two
+		// Add the 3rd line
 		System.out.println("Hello World");
 	}
 
