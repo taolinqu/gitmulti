@@ -5,7 +5,6 @@ public class Hello {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//1st line of comment
 		System.out.println("Hello World");
 	}
 
