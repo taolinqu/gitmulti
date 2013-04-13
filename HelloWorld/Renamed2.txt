@@ -1,8 +1,0 @@
-This is the original file changes after rename the file This is the original file in workspace
-the 2nd line
-the 3rd line
-<<<<<<< HEAD
-The 4th line
-=======
-the 4th line
->>>>>>> refs/remotes/origin/master
